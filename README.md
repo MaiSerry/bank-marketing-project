@@ -4,8 +4,6 @@ Project Description
 
 This project analyzes a bank marketing dataset to predict whether a client will subscribe to a term deposit. The dataset is related to direct marketing campaigns (phone calls) of a Portuguese banking institution.
 
-Dataset
-
 Source
 
 The dataset is sourced from the UCI Machine Learning Repository, available on Kaggle: Bank Marketing Dataset
