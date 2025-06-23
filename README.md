@@ -26,19 +26,14 @@ Analysis and Modeling
 
 bank-marketing-project.ipynb Jupyter notebook performs the following steps:
 
-1.
-Exploratory Data Analysis (EDA): Initial data inspection, descriptive statistics.
+1. Exploratory Data Analysis (EDA): Initial data inspection, descriptive statistics.
 
-2.
-Data Preprocessing: Handling outliers, feature scaling (StandardScaler), one-hot encoding for categorical variables, and PCA for dimensionality reduction.
+2. Data Preprocessing: Handling outliers, feature scaling (StandardScaler), one-hot encoding for categorical variables, and PCA for dimensionality reduction.
 
-3.
-Imbalanced Data Handling: Uses SMOTE (Synthetic Minority Over-sampling Technique) to address class imbalance in the target variable.
+3. Imbalanced Data Handling: Uses SMOTE (Synthetic Minority Over-sampling Technique) to address class imbalance in the target variable.
 
-4.
-Model Training: Applies a Support Vector Machine (SVM) model for classification.
+4. Model Training: Applies a Support Vector Machine (SVM) model for classification.
 
-5.
-Evaluation: Reports classification metrics such as classification report, accuracy score, and ROC AUC score.
+5. Evaluation: Reports classification metrics such as classification report, accuracy score, and ROC AUC score.
 
 
