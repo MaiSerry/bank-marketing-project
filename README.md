@@ -1,4 +1,4 @@
-Bank Marketing Project
+## Bank Marketing Project
 
 Project Description
 
@@ -24,7 +24,7 @@ The dataset includes various attributes related to bank clients (age, job, marit
 
 Analysis and Modeling
 
-The computationfinalproject.ipynb Jupyter notebook performs the following steps:
+bank-marketing-project.ipynb Jupyter notebook performs the following steps:
 
 1.
 Exploratory Data Analysis (EDA): Initial data inspection, descriptive statistics.
@@ -41,4 +41,4 @@ Model Training: Applies a Support Vector Machine (SVM) model for classification.
 5.
 Evaluation: Reports classification metrics such as classification report, accuracy score, and ROC AUC score.
 
-# bank-marketing-project
+
