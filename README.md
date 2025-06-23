@@ -9,15 +9,7 @@ Dataset
 Source
 
 The dataset is sourced from the UCI Machine Learning Repository, available on Kaggle: Bank Marketing Dataset
-
-Files
-
-•
-bank-additional-full.csv: The main dataset containing client data, last contact information, other attributes, and social/economic context attributes.
-
-•
-bank-additional-names.txt: A description of the dataset attributes.
-
+ 
 Attributes
 
 The dataset includes various attributes related to bank clients (age, job, marital status, education, default, housing, loan), last contact of the current campaign (contact, month, day_of_week, duration), other attributes (campaign, pdays, previous, poutcome), and social and economic context attributes (emp.var.rate, cons.price.idx, cons.conf.idx, euribor3m, nr.employed). The target variable y indicates whether the client subscribed to a term deposit ('yes' or 'no').
